@@ -16,6 +16,7 @@
     place-items: center;
     border: 5px solid purple;
 }
+
 .game-info{
     color:black;
     position:absolute;
@@ -27,7 +28,6 @@
     border: 5px solid purple;
     padding: 0.5rem 3rem;
     /* text-align:center; */
-
 }
 
 .tic-tac-toe{
